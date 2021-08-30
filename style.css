@@ -1,9 +1,9 @@
 body{
-    background-color: #EAF6F6;
+    background-color: red;
     font-family: Arial, Helvetica, sans-serif;
 }
 hr{
-    border-style: dotted none none;
+    border-style: dashed none none;
     border-color: rgb(170, 167, 167);
     border-width: 10px;
     width: 5%;
